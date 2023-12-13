@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import Greeting from './Greeting'; // Import the Greeting component
+import Greeting from './Greeting';
 import logo from './logo.svg';
 import './App.css';
 
